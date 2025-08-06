@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subhadip Nandi
+# Hi, 👋 I'm Subhadip Nandi
 
 🎯 Mechanical Engineer on a journey into the world of Data Analytics — driven by curiosity, problem-solving, and the power of data to make smarter decisions.
 
