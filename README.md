@@ -18,7 +18,7 @@
    ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
-(Put GitHub stats image here)
+   ![Subhadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/subhadip-nandi2000/)
